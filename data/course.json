@@ -1,0 +1,32 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Computation and Systems Biology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "b4b63c36-292a-b08f-bd21-0252707b9c2e",
+      "6cb127fe-5c4e-2e20-ff15-30dd6c2888cc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Systems Biology: Stochastic Processes and Biological Robustness",
+  "course_description": "In this seminar, we will discuss some of the main themes that have arisen in the field of systems biology, including the concepts of robustness, stochastic cell-to-cell variability, and the evolution of molecular interactions within complex networks.\n\nThis course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/course_listings/advanced_undergraduate_seminars) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.342",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
